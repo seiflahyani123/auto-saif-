@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://www.bmw-tunisia.com/content/dam/bmw/marketB4R1/bmw-tunisia_com/BMWM_XXL.jpg);
+
+}
+.saif{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: blue;
+    text-decoration: none;
+}
+ul li a{
+    
+    text-decoration: none;
+}
+.generale{
+    color: red;
+}
+.bb{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.card-body{
+    color: blue;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    color: red;
+
